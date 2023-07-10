@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.version         = package['version']
   s.summary         = package['description']
   s.homepage        = package['homepage']
-
+sss
   s.author          = package['author']
   s.license         = package['license']
 
